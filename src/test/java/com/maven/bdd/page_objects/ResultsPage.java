@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ResultsPage extends Hooks {
-   // WebDriver driver;//check with peers???
+   WebDriver driver;//check with peers???
 
     public void selectARating(String selected) {
 
